@@ -1,0 +1,9 @@
+device /dev/video0
+input 0
+jpeg 95
+save /data/webcam.jpg
+quiet
+background
+palette MJPEG
+resolution 1280x960
+loop 10
